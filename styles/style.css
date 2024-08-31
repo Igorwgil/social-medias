@@ -45,11 +45,12 @@ section#midias-sociais{
 }
 
 section#midias-sociais img{
-    margin: 20px;
+    margin: 30px 20px 0px 20px;
     height: 50px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px #0000004d;
 }
+
 
 section#midias-sociais img:hover{
     border: 3px solid rgb(255, 255, 255);
